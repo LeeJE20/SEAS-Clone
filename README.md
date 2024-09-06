@@ -24,9 +24,9 @@
 
 ## 🤝 Member
 
-| <a href="https://github.com/LeeJE20"><img src="https://github.com/LeeJE20.png" width="120"/></a> | <a href="https://github.com/sjhjack"><img src="https://github.com/sjhjack.png" width="120"/></a> | <a href="https://github.com/JinHyeonBae"><img src="https://github.com/JinHyeonBae.png" width="120"/></a> | <a href="https://github.com/MuRing"><img src="https://github.com/MuRing.png" width="120"/></a> | <a href="https://github.com/ssafykwon"><img src="https://github.com/ssafykwon.png" width="120"/></a> | <a href="https://github.com/yeongjunsgit"><img src="https://github.com/yeongjunsgit.png" width="120"/></a> |
+| <a href="https://github.com/LeeJE20"><img src="https://github.com/LeeJE20.png" width="120"/></a> | <a href="https://github.com/sjhjack"><img src="https://github.com/sjhjack.png" width="120"/></a> | <a href="https://github.com/JinHyeonBae"><img src="https://github.com/JinHyeonBae.png" width="120"/></a> | <a href="https://github.com/MuRing"><img src="https://github.com/MuRing.png" width="120"/></a> | <a href="https://github.com/ssafykwon"><img src="https://github.com/badacura.png" width="120"/></a> | <a href="https://github.com/yeongjunsgit"><img src="https://github.com/yeongjunsgit.png" width="120"/></a> |
 | :----------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
-|                               [이정은](https://github.com/LeeJE20)                               |                               [송정훈](https://github.com/sjhjack)                               |                                 [배진현](https://github.com/JinHyeonBae)                                 |                              [엄세현](https://github.com/MuRing)                               |                                [권기용](https://github.com/ssafykwon)                                |                                 [김영준](https://github.com/yeongjunsgit)                                  |
+|                               [LeeJE20](https://github.com/LeeJE20)                               |                               [sjhjack](https://github.com/sjhjack)                               |                                 [JinHyeonBae](https://github.com/JinHyeonBae)                                 |                              [MuRing](https://github.com/MuRing)                               |                                [badacura](https://github.com/badacura)                                |                                 [yeongjunsgit](https://github.com/yeongjunsgit)                                  |
 
 <br>
 
@@ -76,7 +76,7 @@
 
 <br>
 
-- Team: 아이9허리야 (이정은, 엄세현, 송정훈, 권기용, 배진현, 김영준)
+- Team: 아이9허리야 (6인)
 
 <br>
 
@@ -145,7 +145,7 @@
 
 ### BACKEND
 
-#### 이정은 (팀장)
+#### LeeJE20 (팀장)
 
 - 벡엔드 리더
 - 프로젝트 세팅
@@ -157,7 +157,7 @@
 - 카테고리 구현
 - 카테고리 캐싱
 
-#### 송정훈
+#### sjhjack
 
 - 백엔드 팀원
 - ERD 설계
@@ -167,7 +167,7 @@
 - 회원 서비스 구현
 - 랭킹 서비스 구현
 
-#### 배진현
+#### JinHyeonBae
 
 - 백엔드 팀원
 - 인프라 자동 빌드, 배포 환경 구성
@@ -176,7 +176,7 @@
 
 ### FRONTEND
 
-#### 엄세현
+#### MuRing
 
 - 프론트엔드 리더
 - 페이지 디자인
@@ -191,7 +191,7 @@
 - Axios 전역화
 - 비 로그인 라우팅 기능
 
-#### 권기용
+#### badacura
 
 - 프론트엔드 멤버
 - 마이페이지 디자인 및 각종 차트 제작
@@ -199,7 +199,7 @@
 - 오답노트 팝업 페이지 제작
 - 유저 정보, 차트 및 즐겨찾기/오답노트 Axios 구축
 
-#### 김영준
+#### yeongjunsgit
 
 - 프론트엔드 멤버
 - 플래시카드 페이지 제작
